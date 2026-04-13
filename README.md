@@ -12,6 +12,7 @@
 - 💼 Software Engineer working on **microservices & cloud systems**  
 - 🧠 Strong in **Data Structures, Algorithms & Problem Solving**  
 - 📚 Currently learning **System Design & Distributed Systems**  
+- 🚀 Active on GitHub since **2022**  
 - 🎯 Goal: Crack top product-based companies & build scalable products  
 - ⚡ Fun fact: I blend **mathematics + coding** to solve real-world problems  
 
@@ -26,8 +27,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hatakesamadireddi1-dev&show_icons=true&theme=tokyonight&hide_title=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hatakesamadireddi1-dev&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
